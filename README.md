@@ -12,6 +12,7 @@ npm i -D @prisma/cli
 npm run prisma:init # add db to ./prisma/.env
 npm run prisma:migrate # after creating schema in ./prisma/schema.prisma
 # download prisma studio image for your system, run and point to the schema
+npm i dotenv @apollo/client graphql @auth0/nextjs-auth0
 ```
 
 ## Historoy
